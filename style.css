@@ -1,0 +1,15 @@
+#box{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    background-color:black;
+    bottom: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+ 
